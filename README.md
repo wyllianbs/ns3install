@@ -18,7 +18,7 @@ development by Prof. [Wyllian Bezerra da Silva](mailto:wyllianbs@gmail.com) at
   ```sh
   # User privilege specification
   root    ALL=(ALL:ALL) ALL
-  <user>  ALL=(ALL:ALL) ALL # <-- change <user> by username
+  <user>  ALL=(ALL:ALL) ALL # <-- change <user> by current username
   ```
 5. Set the NS3 installation directory. Default: `/usr/local/ns3`.
 
