@@ -1,2 +1,2 @@
 # ns3install
-Interactive script (bash) for NS3 installation.
+NS3_install, a simple and easy interactive script for NS3 installation.
