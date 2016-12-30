@@ -30,9 +30,9 @@ development by Prof. [Wyllian Bezerra da Silva](mailto:wyllianbs@gmail.com) at
   - Changing permitions on the NS3 directory to `rwx`.
   - Accessing the NS3 path.
   - Downloading the NS3 provided at step 6.
-  - Extracting the file `.tar.bz2`.
-  - Deleting the file `.tar.bz2`.
-  - Accessing the `ns3-allinone` path.
+  - Extracting `.tar.bz2` file.
+  - Deleting `.tar.bz2` file.
+  - Accessing `ns3-allinone` path.
   
 8. Confirm the NetAnim version, and press `<ENTER>`.
 
