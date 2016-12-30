@@ -46,7 +46,7 @@ development by Prof. [Wyllian Bezerra da Silva](mailto:wyllianbs@gmail.com) at
 1. Standard: use `waf [options] --run <NS3 file path>`. For generating output in the same current working directory path:
 
   ```sh
-  waf --cwd=$PWD --run <NS3 file>
+  waf --cwd=$PWD --run <NS3 file path>
   ```
   
 2. Using optimized options:
