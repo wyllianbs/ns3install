@@ -2,7 +2,7 @@
 
 ns3install.sh is a simple and easy interactive script for NS3 installation,
 development by Prof. [Wyllian Bezerra da Silva](mailto:wyllianbs@gmail.com) at
-[Federal University of Santa Catarina (UFSC)](http://wyllian.prof.ufsc.br/).
+[Federal University of Santa Catarina (UFSC)](<http://wyllian.prof.ufsc.br/>).
 
 
 # Installation Instructions
@@ -49,7 +49,7 @@ development by Prof. [Wyllian Bezerra da Silva](mailto:wyllianbs@gmail.com) at
   waf --cwd=$PWD --run <NS3 file>
   ```
   
-2. Advanced:
+2. Using optimized options:
   - waf + output in the same current working directory path:
   
     ```sh
