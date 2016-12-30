@@ -26,7 +26,7 @@ development by Prof. [Wyllian Bezerra da Silva](mailto:wyllianbs@gmail.com) at
 
 7. Wait for the next processing pass: 
   - Creating the NS3 path directory.
-  - Adding the user `$USER` to group `staff`.
+  - Adding the user `$USER` to `staff` group.
   - Changing permitions on the NS3 directory to `rwx`.
   - Accessing the NS3 path.
   - Downloading the NS3 provided at step 6.
