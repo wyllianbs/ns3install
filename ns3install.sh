@@ -31,7 +31,7 @@ else
     echo "Check the dependencies before installing the NS3."
 fi
 
-
+ 
 echo -e "\n::: Input:"; 
 
 read -e -p "$(tput setaf 2)User$(tput blink): $(tput sgr 0)" -i $USER user ;
