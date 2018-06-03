@@ -3,7 +3,7 @@
 # This is a simple and easy interactive script for NS3 installation.
 #
 # Federal University of Santa Catarina - UFSC
-# (c) Prof. Wyllian Bezerra da Silva <wyllianbs@gmail.com>
+# (c) Prof. Wyllian Bezerra da Silva <wyllian.bs@ufsc.br>
 #
 # Check out README.md for more details available at URL:
 # https://github.com/wyllianbs/ns3install
