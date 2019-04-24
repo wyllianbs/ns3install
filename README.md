@@ -1,3 +1,7 @@
+UNIVERSIDADE FEDERAL DE SANTA CATARINA
+
+Prof. Wyllian Bezerra da Silva
+
 # About
 
 `ns3install.sh` is a simple and easy interactive script for [NS3](<https://www.nsnam.org/>) installation,
