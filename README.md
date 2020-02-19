@@ -1,6 +1,3 @@
-UNIVERSIDADE FEDERAL DE SANTA CATARINA
-
-Prof. Wyllian Bezerra da Silva
 
 # About
 
